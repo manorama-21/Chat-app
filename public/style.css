@@ -28,7 +28,7 @@ section.chat__section{
 .brand{
     padding: 20px;
     background-image: url(bg2.jpg);
-    display: #0a0909;
+    display: flex;
     align-items: center;
 }
 
